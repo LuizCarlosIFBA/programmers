@@ -32,3 +32,9 @@ int solution(int n) {
 	}
 	return answer;
 }
+
+
+main(){
+   cout << "Value 'solurion': " << solution(2)<< endl;
+   cout << "Value 'is': " << is(2)<< endl;	
+}
